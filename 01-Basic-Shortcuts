@@ -1,0 +1,26 @@
+
+Ctrl + Space :
+	    main -> Ctrl + Space -> generate main contustor
+	    sysout -> Ctrl + Space -> System.out.println("");
+	    syserr -> Ctrl + Space -> System.err.println("");
+	    fore -> Ctrl + Space -> generate for each loop code scope
+	    Class Name  -> Ctrl + Space -> import class
+	    after class name & a space  -> Ctrl + Space -> suggest varial name
+	
+Ctrl + 1 :
+	    Check error & suggest suggestion
+	
+Ctrl + Shift + R :
+	    Search file in Resources
+	
+Ctrl + Shift + T :
+	    Search Type/Class 
+	
+F3 :
+	    Go to Declearation
+	
+F4 :
+	    Type Hierarchy
+	
+Ctrl + Shift + L :
+	    List of shortcut

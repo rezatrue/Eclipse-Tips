@@ -7,20 +7,54 @@ Ctrl + Space :
 	    Class Name  -> Ctrl + Space -> import class
 	    after class name & a space  -> Ctrl + Space -> suggest varial name
 	
-Ctrl + 1 :
-	    Check error & suggest suggestion
+Ctrl + 1 :   Check error & suggest suggestion
 	
-Ctrl + Shift + R :
-	    Search file in Resources
+Ctrl + Shift + R :  Search file in Resources
 	
-Ctrl + Shift + T :
-	    Search Type/Class 
+Ctrl + Shift + T :    Search Type/Class 
 	
-F3 :
-	    Go to Declearation
+F3 :    Go to Declearation
 	
-F4 :
-	    Type Hierarchy
+F4 :    Type Hierarchy
 	
-Ctrl + Shift + L :
-	    List of shortcut
+Ctrl + Shift + L : List of shortcut
+
+Generating code : Alt + Shift + S
+
+Delete line : Ctrl + D
+
+Duplicate line : Ctrl + Alt + Up
+
+import : Ctrl + Shift + o
+
+Format line : Ctrl + Shift + F
+
+Moving line up : Alt + up arrow
+
+Moving line down : Alt + down arrow
+
+
+
+........... eclipse configaration .........................
+
+Save Action:
+	window -> perferences ->
+		Java -> Editor -> Save Action -> (can set various configaration while save like auto format source code, remove unused variable)
+
+				
+Show Different windows:
+	window -> show view ->
+		to bring different view on screen
+
+window -> perspective ->
+		to change differnt view setting
+
+To change fonts :
+		window -> perferences ->
+			General -> Appearance -> Colors and Fonts
+						Basic -> Text Font
+
+
+
+
+

@@ -39,20 +39,20 @@ Moving line down : Alt + down arrow
 
 Save Action:
 	window -> perferences ->
-		Java -> Editor -> Save Action -> (can set various configaration while save like auto format source code, remove unused variable)
+		Java -> Editor -> Save Action -> (can set various configaration while save like auto format source code, 
+							remove unused variable)
 
 				
-Show Different windows:
+Show Different windows on screen:
 	window -> show view ->
-		to bring different view on screen
 
-window -> perspective ->
-		to change differnt view setting
+Change differnt view setting (debug, enterprise ..) :
+	window -> perspective ->
 
 To change fonts :
-		window -> perferences ->
-			General -> Appearance -> Colors and Fonts
-						Basic -> Text Font
+	window -> perferences -> 
+		General -> Appearance -> Colors and Fonts
+					Basic -> Text Font
 
 
 
